@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoVision Clicker</string>
+    <string name="accessibility_description">Executa toques e gestos somente durante uma automação iniciada pelo usuário.</string>
+</resources>
